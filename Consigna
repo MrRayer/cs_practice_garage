@@ -1,0 +1,9 @@
+Ejercicio – Garage
+  Un garage del microcentro desea tener un sistema que permita facilitar su gestión. 
+  Actualmente permite alojar distintos tipos de vehículos: Autos, Motos, Bicicletas y Camionetas. 
+  De cada vehículo se toman los datos al ingresar: Nombre y DNI del dueño, patente (en caso que tuviera) La modalidad de estacionamiento (fija o movil) significará un método de cálculo distinto a la hora de cobrar: ● Fija: se calcula como un Monto fijo por hora + un plus fijo ● Móvil: se calcula como un Monto fijo por hora
+  Modelar un sistema en objetos que permita:
+  a. Ingresar un vehículo
+  b. Egresar un vehículo
+  c. Cantidad de espacios ocupados
+  d. Monto total a cobrar con el estado de ocupación actual
