@@ -1,0 +1,8 @@
+C:\csPractice\garage_cspractice\bin\Debug\garage_cspractice.exe.config
+C:\csPractice\garage_cspractice\bin\Debug\garage_cspractice.exe
+C:\csPractice\garage_cspractice\bin\Debug\garage_cspractice.pdb
+C:\csPractice\garage_cspractice\obj\Debug\garage_cspractice.csproj.AssemblyReference.cache
+C:\csPractice\garage_cspractice\obj\Debug\garage_cspractice.csproj.SuggestedBindingRedirects.cache
+C:\csPractice\garage_cspractice\obj\Debug\garage_cspractice.csproj.CoreCompileInputs.cache
+C:\csPractice\garage_cspractice\obj\Debug\garage_cspractice.exe
+C:\csPractice\garage_cspractice\obj\Debug\garage_cspractice.pdb
